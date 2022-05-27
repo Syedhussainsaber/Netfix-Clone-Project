@@ -1,0 +1,255 @@
+@media only screen and (max-width: 360px){
+    .container-fluid .img1 img{
+        height: 84vh;
+        max-width: unset;
+        overflow: hidden;
+    }
+    .container-fluid{
+      overflow: hidden;
+    }
+.container1 img{
+    position: relative;
+top: 10em;
+right: 1.75em;
+width: 133px;
+}
+.container1 .dropdown .btn{
+    color: white;
+width: 7em !important;
+height: 1.8em !important;
+z-index: 1;
+border-radius: 2px !important;
+padding: 1px;
+}
+.container1 .dropdown {
+    top: 11.5em;
+    left: -1em;
+}
+.container1 #btn1{
+    position: relative;
+right: 0.8em;
+top: 10em;
+width: 4em !important;
+margin: 0;
+height: 1.7em;
+}
+.container2{
+bottom: 30em;
+
+}
+.container2 h1{
+font-size: 1.75rem;
+}
+.container2 h4{
+    font-size: 1.125rem;
+    margin: 1rem auto;
+    line-height: 1.3;
+}
+.container2 p{
+    font-size: 1.125rem;
+    margin: 1rem auto;
+    line-height: 1.2;
+  }
+  .container2 .row .col-md-6{
+    width: 20em;
+}
+.container2 .row .col-md-6 .input-group button p{
+    bottom: 0.89em;
+    font-size: 1em;
+}
+.container2 .row .col-md-6 .input-group input{
+    border-radius: 0px ;
+    margin-top: 1em;
+    height: 3em;
+    width: 20.5em;
+border: 8px;
+}
+.container2 .input-group{
+    width: 28em;
+    left: -1.3em;
+}
+.container2 .btn{
+    height: 2.3em !important;
+    right: 13.5em;
+    top: 5em;
+    border: 0px;
+    border-radius: 0px;
+}
+.container-fluid hr{
+    margin-top: -22.44em;
+    overflow: hidden;
+}
+.container3{
+    margin-top: 3.5rem !important;
+    margin-bottom: 0px !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+.container3 h1 {
+    font-size: 1.7rem;
+    text-align: center;
+    width: 12.5em;
+  }
+  .container3 h4 {
+    font-size: 1.1em;
+    line-height: 2;
+    margin-bottom: 6em;
+    text-align: center;
+  }
+  .container3 .row .col-md-6 h4 br{
+      display: none;
+  }
+  .container3 #video1 {
+    max-width: 71vw;
+    position: relative;
+    bottom: 23.5em;
+    height: 34vh;
+    left: 3.2em;
+    margin-bottom: 1.3em;
+    overflow: hidden;
+  }
+  .container4 h5 {
+    font-size: 1.1em;
+    line-height: 1.5;
+    margin-bottom: 2em;
+    text-align: center;
+    margin-left: 2em;
+
+  }
+  .container4 h2 {
+    font-size: 1.8rem;
+    text-align: center;
+  }
+  .container4 .row .col-md-6{
+      left: 0em !important;
+      text-align: center;
+  }
+  .container4 .row .col-md-6 h5 br{
+      display: none;
+  }
+  #hr2 {
+    margin-top: -7em;
+  }
+  .container5 h1 {
+    font-size: 1.8em;
+    line-height: 1;
+    text-align: center;
+    margin-top: -3.5em;
+  }
+  .container5 h3 {
+    line-height: 1.3;
+    text-align: center;
+    font-size: 1.1em;
+    margin-bottom: 10em;
+  }
+  .container5 .col-md-5 iframe {
+    max-width: 56vw;
+    height: 34vh;
+    position: relative;
+    bottom: 18em;
+    left: 4.2em;
+    z-index: -1;
+    overflow: hidden;
+  }
+
+ .container5 .col-md-5 {
+  margin-top: -8em;
+}
+.container6 .row .col-md-4 img {
+  max-width: 113%;
+  height: auto;
+  margin-top: 11em;
+  margin-bottom: 2em;
+  margin-right: 3em;
+}
+.container6 .row .col-md-6 h1 {
+  font-size: 1.5em;
+  font-weight: bold;
+  text-align: center;
+}
+.container6 .row .col-md-6 {
+  margin-top: -33em;
+  margin-bottom: 2em;
+  margin-left: 0em;
+  line-height: 1.5;
+}
+.container6 .row .col-md-6 h3 {
+  line-height: 1.3;
+  font-size: 1.1em;
+  text-align: center;
+}
+.container6 .row .col-md-6 h3 br{
+  display: none;
+}
+#hr4 {
+  margin-top: -1em;
+}
+.container7 h1{
+  margin-top: -0.7em;
+  font-size: 1.8em !important; 
+}
+.container7 .row{
+  margin-top: 1em;
+}
+.container7 .col-md-7 {
+    margin-left: 1em;
+} 
+.container7 .row .col-md-7 .accordion-item h2{
+  font-size: 1.3em;
+}
+.container8 .row .col-md-8 p {
+  text-align: center;
+  font-size: 1em;
+  position: relative;
+  color: white;
+}
+.container8 .row .col-md-6 .input-group input{
+  width: 11.4em !important;
+  left: 2.5em !important;
+  border-radius: 0px;
+}
+.container8 .row .col-md-6 .input-group button {
+    color: white;
+    background-color: rgb(245, 0, 0);
+    height: 2em !important;
+    top: 3.5em !important;
+    right: 9.5em !important;
+    border: 0px;
+    border-radius: 0px;
+  }
+  .container8 button p {
+    text-align: center !important;
+    position: relative;
+    font-size: 1em;
+}
+.container8 .row .col-md-6 .input-group{
+width: 112%;
+}
+.container9 .row .col{
+padding-left: 0 !important;
+padding-right: 0% !important;
+margin-top: -1.5em !important;
+}
+.container9 .row .col .row{
+  margin-left: -0.5em !important;
+}
+.container9 #last-box .can1{
+  margin-left: 31.45em !important;
+margin-top: -19.47em !important;
+}
+.container9 .can{
+  margin-left: 2.5em;
+}
+.container9 #last-box .can2{
+  margin-left: 31.45em !important;
+  margin-top: -9em !important;
+}
+hr{
+  overflow: hidden;
+}
+body{
+  max-width: 100%;
+  height: auto;
+  overflow-x: hidden;
+}
+}
